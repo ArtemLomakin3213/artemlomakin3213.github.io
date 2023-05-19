@@ -363,8 +363,8 @@ background-color: #0a0a0a;
 
 @media (max-width: 560px){
     .title{
-        font-size: 0;
-        line-height: 42;
+        font-size: 28px;
+        line-height: 1;
     }
     .headline-btn{  
         font-size: 18px;
